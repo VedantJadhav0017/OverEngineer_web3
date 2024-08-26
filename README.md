@@ -24,3 +24,5 @@ PeerJS is a JavaScript library that simplifies peer-to-peer communication. It al
 - **Scalability**: Suitable for applications requiring real-time communication, such as video calls, file sharing, and gaming.
 
 By combining WhiteListing contracts with PeerJS, this project ensures secure access control while providing a seamless peer-to-peer video calling experience.
+
+![Video Call]("C:\Users\vedan\OneDrive\Desktop\desktop.jpg")
